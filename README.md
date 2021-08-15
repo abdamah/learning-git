@@ -1,6 +1,5 @@
 # learning-git
-How to download file from Google Classroom
-------------------------------------------16/08/2021
+#How to download file from Google Classroom
 1. Join the classroom
 2. Open the file 
 3. Click 3 dots on the right-side
