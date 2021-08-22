@@ -1,6 +1,6 @@
 # learning-git
 # How to download file from Google Classroom
-1. Go to [Git Essentials](https://bit.ly/3m6SlBS)
+1. Go to [Git Essentials]https://classroom.google.com/u/0/c/MzgwMTAxOTUzNjUw)
 2. Join the classroom
 3. Open the file 
 4. Click 3 dots on the right-side
