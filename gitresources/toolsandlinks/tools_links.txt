@@ -1,0 +1,28 @@
+Softwares:
+-commands: https://git-scm.com/ download
+-editing: https://code.visualstudio.com/ download
+	visual: add extension : GitLens — Git supercharged, gitgraph 
+-visual: gitkraken: https://www.gitkraken.com/ download
+-merging:p4merge: https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge
+
+Basic configuration
+git config --global user.name "Your name"
+git config --global user.email youremail@gmail.com /* should be valid email for your github*/
+git config --global core.editor "code --wait" /*Your vs code should be your default editor*/
+
+Configure p4merge:
+git config --global merge.tool p4merge
+git config --global mergetool.p4merge.path "fullPath"
+
+To view:
+git config --global -e
+
+- Tips for:
+git config --global core.safecrlf false > to surpress the warnings Windows
+git config --global core.safecrlf false > to show workings Windows
+
+https://www.atlassian.com/git/tutorials
+https://www.w3schools.com/git/
+https://www.freecodecamp.org/news/git-and-github-for-beginners/
+https://dev.to/doabledanny/git-cheat-sheet-50-commands-free-pdf-and-poster-4gcn
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
