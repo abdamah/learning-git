@@ -1,3 +1,7 @@
 hello
 world
+<<<<<<< HEAD
 sun
+=======
+moon
+>>>>>>> 24dde6871016504cbb360a877ebd45855b60effc
