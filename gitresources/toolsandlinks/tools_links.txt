@@ -17,9 +17,9 @@ git config --global mergetool.p4merge.path "fullPath"
 To view:
 git config --global -e
 
-- Tips for:
-git config --global core.safecrlf false > to surpress the warnings Windows
-git config --global core.safecrlf false > to show workings Windows
+-Tips for:
+git config --global core.safecrlf false: To hide
+git config --global core.safecrlf true : To show
 
 https://www.atlassian.com/git/tutorials
 https://www.w3schools.com/git/
